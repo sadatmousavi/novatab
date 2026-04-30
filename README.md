@@ -1,6 +1,6 @@
 # 🚀 NovaTab – Smart New Tab Launcher
 
-Turn your new tab into a powerful productivity hub.
+Turn your new tab into a lightning-fast, AI-friendly productivity hub..
 
 ---
 
