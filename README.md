@@ -1,6 +1,15 @@
 # 🚀 NovaTab – Smart New Tab Launcher
 
-Turn your new tab into a lightning-fast, AI-friendly productivity hub..
+Turn your new tab into a lightning-fast, AI-friendly productivity hub.
+
+---
+
+## 💡 Why NovaTab?
+
+- Built for AI users (ChatGPT, Claude, DeepSeek, etc.)
+- Faster than default Chrome new tab
+- Clean UI inspired by Google, but more powerful
+- Fully customizable shortcuts for your workflow
 
 ---
 
@@ -18,9 +27,17 @@ Turn your new tab into a lightning-fast, AI-friendly productivity hub..
 
 ---
 
-## 📸 Screenshots
+## 📸 Preview
 
-_(Add screenshots here soon)_
+![NovaTab Preview](assets/screenshots/preview.png)
+
+---
+
+## 🚀 How it works
+
+1. Open a new tab  
+2. Search instantly or launch your favorite tools  
+3. Customize shortcuts your way  
 
 ---
 
@@ -36,13 +53,13 @@ _(Add screenshots here soon)_
 
 ## 🧠 About
 
-NovaTab is designed to improve productivity and workflow, especially for users working with AI tools and multiple web apps.
+NovaTab is designed to improve productivity, especially for users working with AI tools and multiple web apps.
 
 ---
 
 ## 🌐 Part of AI Extensions Ecosystem
 
-This project is part of a growing collection of Chrome extensions focused on improving AI chat experience and productivity.
+This project is part of a growing collection of Chrome extensions focused on improving AI workflows and user experience.
 
 ---
 
